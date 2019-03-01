@@ -1,10 +1,10 @@
 # Description
-This Foursquare data is a small version of [Foursquare_2](https://github.com/rahmanidashti/LBSNDatasets/tree/master/Foursquare/Foursquare_2).
+This Foursquare data includes checkin records generated within United States (except Alaska and Hawaii) and eliminate those users with fewer than 10 check-in POIs, as well as those POIs with fewer than 10 visitors.
 
 # Propertise
 | #Users  | #POIs | #Check-ins | %Sparsity | Year (from X to Y) |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 5,000  | 28,007  | 369,443 | To be calculated | April 2012 to September 2013  |
+| 24,941  | 28,593  | 1,196,248 | 99.900% | April 2012 to September 2013  |
 
 # Reference
 ```
