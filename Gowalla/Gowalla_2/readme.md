@@ -1,5 +1,5 @@
 # Description
-This Gowalla check-in data is a toy version of [Gowalla_1]()
+This Gowalla check-in data is a toy version of [Gowalla_1](https://github.com/rahmanidashti/LBSNDatasets/tree/master/Gowalla/Gowalla_1).
 
 # Propertise
 | #Users  | #POIs | #Check-ins | %Sparsity | Year (from X to Y) |
