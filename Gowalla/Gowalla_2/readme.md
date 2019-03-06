@@ -11,4 +11,3 @@ This Gowalla check-in data is a toy version of [Gowalla_1](https://github.com/ra
 Liu, Yiding, et al. "An experimental evaluation of point-of-interest recommendation in location-based 
 social networks", in VLDB, 2017.
 ```
-
