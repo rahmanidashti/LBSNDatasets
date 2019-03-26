@@ -5,7 +5,7 @@ We filter out those users with fewer than 10 check-in POIs and those POIs with f
 # Propertise
 | #Users  | #POIs | #Check-ins | #Categories | %Sparsity | Year (from X to Y) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | -------------- |
-| 30,887  | 18,995  | 860,888 | 624 | 99.860% | access date: Feb 201  |
+| 30,887  | 18,995  | 860,888 | 624 | 99.860% | access date: Feb 2016  |
 
 # Reference
 ```
